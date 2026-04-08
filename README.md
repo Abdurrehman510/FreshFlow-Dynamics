@@ -153,8 +153,9 @@ I am always open to discussing new opportunities or technical deep-dives into th
 
 - **Name**: Abdurrehman
 - **GitHub**: [Abdurrehman510](https://github.com/Abdurrehman510)
-- **Email**: [abdurrehman.work@gmail.com](mailto:abdurrehman.work@gmail.com)
+- **Email**: [abdurrehmannarmawala510@gmail.com](mailto:abdurrehmannarmawala510@gmail.com)
 - **LinkedIn**: [linkedin.com/in/abdurrehman](https://www.linkedin.com/in/abdurrehman)
+- **Portfolio**: [abdurrehman-narmawala.netlify.app/]([https://www.linkedin.com/in/abdurrehman](https://abdurrehman-narmawala.netlify.app/))
 
 ---
 *Developed with ❤️ to build a more sustainable and efficient supply chain.*

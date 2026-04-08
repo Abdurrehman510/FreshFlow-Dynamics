@@ -1,0 +1,33 @@
+# Maven/Java
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.log
+.mvn/
+.metadata/
+bin/
+
+# Node/React
+node_modules/
+dist/
+.vite/
+*.local
+.eslintcache
+package-lock.json
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+*.DS_Store
+*.iml
+
+# Application specific
+logs/
+perishable-ui/  # Old folder
+backend/logs/
+frontend/node_modules/
+backend/target/

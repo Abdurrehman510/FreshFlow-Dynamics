@@ -154,7 +154,7 @@ I am always open to discussing new opportunities or technical deep-dives into th
 - **Name**: Abdurrehman
 - **GitHub**: [Abdurrehman510](https://github.com/Abdurrehman510)
 - **Email**: [abdurrehmannarmawala510@gmail.com](mailto:abdurrehmannarmawala510@gmail.com)
-- **LinkedIn**: [linkedin.com/in/abdurrehman](https://www.linkedin.com/in/abdurrehman)
+- **LinkedIn**: [linkedin.com/in/abdurrehman-narmawala](https://www.linkedin.com/in/abdurrehman-narmawala)
 - **Portfolio**: [abdurrehman-narmawala.netlify.app](https://abdurrehman-narmawala.netlify.app)
 
 ---

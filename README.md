@@ -40,6 +40,18 @@ Replacing "gut-feeling" ordering with data science. The engine uses a **30-day W
 - **Trend Detection**: Compares trailing 7-day averages against previous cycles to identify `INCREASING`, `STABLE`, or `DECREASING` demand.
 - **Spike Sensitivity**: Features an automated alert system when demand exceeds 1.5x the 30-day moving average.
 
+## 📚 Documentation
+
+Explore the comprehensive technical and operational documentation:
+
+| Document | Description |
+|:--- |:--- |
+| [📡 API Reference](docs/API_REFERENCE.md) | Endpoint details, DTOs, and Postman collection. |
+| [🗄️ Database Schema](docs/DATABASE_SCHEMA.md) | ERD diagrams, table definitions, and migrations. |
+| [🏛️ Architecture](docs/ARCHITECTURE.md) | DDD layers, design patterns, and system flow. |
+| [⚛️ Frontend Guide](docs/FRONTEND_GUIDE.md) | Component mapping, state flow, and Tailwind theme. |
+| [📖 User Guide](docs/USER_GUIDE.md) | Workflow walkthroughs for Admins and Customers. |
+
 ---
 
 ## 🏗️ System Architecture
